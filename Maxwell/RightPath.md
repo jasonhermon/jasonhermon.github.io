@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="maxwell-rightpath">Maxwell RightPath</h1>
 <h4 id="motivator">Motivator</h4>
 <p>Typically, Motivators are passionate, highly interactive people who love to achieve, influence, and relate with others, especially large groups. They thrive on variety, changes, new challenges, and opportunities to convince others of their viewpoints. They point to the future with great optimism.</p>
